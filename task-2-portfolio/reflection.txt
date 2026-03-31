@@ -1,1 +1,7 @@
-In this task, I created my profiles on GitHub, LinkedIn, and Kaggle. GitHub is used to store and share coding projects, LinkedIn helps in building a professional network, and Kaggle is useful for learning data science and working with datasets. Over the next four years, I plan to regularly update my GitHub with projects, build connections on LinkedIn, and improve my skills using Kaggle. These platforms will help me grow academically and professionally.
+In this task, I created my profiles on GitHub, LinkedIn, and Kaggle.
+
+GitHub is used to store and share coding projects, LinkedIn helps in building a professional network, and Kaggle is useful for learning data science and working with datasets.
+
+Over the next four years, I plan to regularly update my GitHub with projects, build connections on LinkedIn, and improve my skills using Kaggle.
+
+These platforms will help me grow academically and professionally.
