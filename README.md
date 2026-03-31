@@ -34,8 +34,7 @@ Professional emails and checklist.
 Case study and prevention tips.
 
 ##  Links
-(Add later)
 
 - Canva Infographic: 
-- Google Form: 
+- Google Form: https://forms.gle/RqohDeEt6ZLJTyh79
 - GitHub Profile: https://github.com/yourusername
