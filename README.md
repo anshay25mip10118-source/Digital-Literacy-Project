@@ -19,19 +19,22 @@ This project is part of the Digital Literacy course at VIT Bhopal. It focuses on
 ## Tasks
 
 ### Task 1: Infographic
-Created using Canva on digital literacy topics.
+Created an infographic using Canva covering digital literacy concepts, tools, safe practices, and email etiquette.
+
 
 ### Task 2: Portfolio
-GitHub and LinkedIn profiles created.
+Created and updated profiles on GitHub, LinkedIn, and Kaggle. Also created a GitHub profile README and added relevant details.
+
+
 
 ### Task 3: Platforms
-Coding challenge + Google Form.
+Completed a beginner-level coding challenge on HackerRank and created a Google Form quiz with 5 questions. Responses were linked to a Google Sheet.
 
 ### Task 4: Email Etiquette
-Professional emails and checklist.
+Drafted two professional emails and created a social media do’s and don’ts checklist.
 
 ### Task 5: Cybercrime
-Case study and prevention tips.
+Prepared a case study on UPI fraud and created a prevention checklist including safety tips and reporting methods.
 
 ##  Links
 
