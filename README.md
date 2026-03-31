@@ -37,7 +37,6 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on UPI fraud and created a prevention checklist including safety tips and reporting methods.
 
 ##  Links
-
-- Canva Infographic: 
+ 
 - Google Form: https://forms.gle/RqohDeEt6ZLJTyh79
-- GitHub Profile: https://github.com/yourusername
+- GitHub Profile: https://github.com/anshay25mip10118-source
